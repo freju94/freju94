@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freju94  and Automation Engineer
 - 👀 I’m interested in F1 motorsports,windsurfing and automation technology.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
-- 💞️ I’m looking to collaborate on interesting projects, suitable to my skills and more demanding ones.
+- 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me? Send me a private message or an email. Freju13@gmail.com
 
 <!---
